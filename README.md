@@ -12,7 +12,7 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 05](https://github.com/2303A51462/AIML-2025/blob/main/Lab-05.ipynb): Implement Logistic Regression using Titanic Ship Data
 
-[Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
+[Lab 06](https://github.com/2303A51462/AIML-2025/blob/main/Lab%3A06.ipynb): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
 [Lab 07](): Implement Support Vector Machine using Breast Cancer Data
 
